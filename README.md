@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Freelance Website Development**
 
-- 📜 I’m currently obtaining **AWS Developer Certi**
+- 📜 I’m currently obtaining **AWS LVL 2. Developer Certification**
 
 - 👯 I’m looking to collaborate on **Any Full Stack Product**
 
