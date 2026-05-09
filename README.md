@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishaan-chadha1&label=Profile%20views&color=0e75b6&style=flat" alt="ishaan-chadha1" /> </p>
 
-- 🔭 I’m currently working on **Freelance Website Development**
 
-- 📜 I’m currently obtaining **AWS LVL 2. Developer Certification**
 
 - 👯 I’m looking to collaborate on **Any Full Stack Product**
 
